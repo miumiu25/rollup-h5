@@ -1,0 +1,7 @@
+
+Beautify css/sass/scss/less
+SCSS Formatter
+Vetur
+Vue 2 Snippets
+Vue VSCode Snippets
+Javascript Vue 
